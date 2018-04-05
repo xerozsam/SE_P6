@@ -1,1 +1,4 @@
 This is a new file called p6.txt
+Add a new line from another computer
+Portfolio 6
+Testing......
